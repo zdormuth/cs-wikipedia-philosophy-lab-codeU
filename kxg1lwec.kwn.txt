@@ -1,0 +1,21 @@
+﻿complete
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+	new file:   javacs-lab05/bin/com/flatironschool/javacs/WikiFetcher.class
+#	new file:   javacs-lab05/bin/com/flatironschool/javacs/WikiNodeExample.class
+	new file:   javacs-lab05/bin/com/flatironschool/javacs/WikiNodeIterable$WikiNodeIterator.class
+	new file:   javacs-lab05/bin/com/flatironschool/javacs/WikiNodeIterable.class
+	new file:   javacs-lab05/bin/com/flatironschool/javacs/WikiPhilosophy.class
+#	new file:   javacs-lab05/bin/com/flatironschool/javacs/WikiPhilosophyTest.class
+#	new file:   javacs-lab05/junit/TEST-com.flatironschool.javacs.WikiPhilosophyTest.xml
+	modified:   javacs-lab05/src/com/flatironschool/javacs/WikiFetcher.java
+	modified:   javacs-lab05/src/com/flatironschool/javacs/WikiPhilosophy.java
+#	new file:   sv3rrxwn.sbu.txt
+#
+

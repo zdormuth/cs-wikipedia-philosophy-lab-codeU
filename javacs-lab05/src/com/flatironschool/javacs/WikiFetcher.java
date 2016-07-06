@@ -25,7 +25,6 @@ public class WikiFetcher {
 	 */
 	public Elements fetchWikipedia(String url) throws IOException {
 		sleepIfNeeded();
-
 		// download and parse the document
 		Connection conn = Jsoup.connect(url);
 		Document doc = conn.get();
@@ -58,7 +57,7 @@ public class WikiFetcher {
 
 		// TODO: factor out the following repeated code
 		Element content = doc.getElementById("mw-content-text");
-		Elements paras = content.select("p");
+		Elements paras = content.select("a");
 		return paras;
 	}
 
